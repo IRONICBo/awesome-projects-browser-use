@@ -43,4 +43,6 @@ Projects focused on simplifying the use of `browser-use` by providing wrappers, 
 
 *   [A5-Browser-Use](https://github.com/AgenticA5/A5-Browser-Use/) - An all-in-one solution integrating `browser-use` with a user-friendly RESTful API and Chrome extension for simplified agentic browser automation. 
 
+*   [rea-captcha](https://github.com/masakaai/rea-captcha) - Local verification controller with browser-use detection hooks and same-session Playwright/CDP integration for authorized provider-test and owned-origin flows.
+
 *Contributions welcome! Feel free to open an issue or pull request to add more projects.*
